@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class P5 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter Radius of Cylinder:");
+        double r = sc.nextDouble();
+        System.out.println("Enter Height of Cylinder:");
+        double h = sc.nextDouble();
+        double pi = 3.14159;
+        double vol = pi * r * r * h;
+        System.out.println("Volume of Cylinder: " + vol + " units");        
+    }
+}
