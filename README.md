@@ -73,3 +73,11 @@ Object Oriented Programming.<br>
 1. Java Constructors<br>
 2. Instance vs. Class Variables<br>
 3. Access Modifiers Level 1<br><br><br>
+
+## 04-02-25 : Assignment-9 -> Branch : feature9
+Questions based on following concepts:<br>
+1. "this" keyword is used to refernce class elements/variables<br>
+2. "static" keyword is used to associate variables and methods directly to class<br>
+3. "final" keyword is used to make the assignment to variables permanent and unchangeble<br>
+4. "instanceof" operator is used to identify the class type of an object<br><br>
+Questions containing class names : BankAccount, Book, Employee, Patient, Product, Student and Vehicle.<br><br><br>
