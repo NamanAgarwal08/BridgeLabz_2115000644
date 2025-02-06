@@ -81,3 +81,12 @@ Questions based on following concepts:<br>
 3. "final" keyword is used to make the assignment to variables permanent and unchangeble<br>
 4. "instanceof" operator is used to identify the class type of an object<br><br>
 Questions containing class names : BankAccount, Book, Employee, Patient, Product, Student and Vehicle.<br><br><br>
+
+## 06-02-25 : Assignment-10 -> Branch : feature10
+1. Classes vs. Objects in Java
+2. Class Diagram
+3. Object Diagrams
+4. Sequence Diagrams
+5. Association
+6. Aggregation
+7. Composition
