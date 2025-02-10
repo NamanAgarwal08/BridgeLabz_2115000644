@@ -101,3 +101,9 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 7. Constructor Inheritance in Java
 8. Polymorphism and Inheritance
 9. Access Modifiers and Inheritance
+
+## 10-02-2025 : Assignment-12 -> Branch : feature12
+1. Encapsulation
+2. Polymorphism 
+3. Interface
+4. Abstract Classes
