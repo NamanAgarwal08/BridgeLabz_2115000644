@@ -24,6 +24,7 @@ public class UndoRedoTextEditor {
     Node tail = null;
     Node current = null;
     int size = 0;
+    int itr = 0;
 
 
     public void addState(String text) {
@@ -32,14 +33,19 @@ public class UndoRedoTextEditor {
             tail = head;
             current = head;
         } else {
-            tail.next = new Node(text);
-            tail.next.prev = tail;
-            tail = tail.next;
-            current = tail;
+            current.next = new Node(text);
+            current.next.prev = current;
+            current = current.next;
+            tail = current;
+            size -= itr;
+            itr = 0;
         }
 
         size++;
         if (size > limit) {
+            if (current == head) {
+                current = head.next;
+            }
             head = head.next;
             size--;
         }
@@ -49,6 +55,7 @@ public class UndoRedoTextEditor {
     public void undo() {
         if (current.prev != null) {
             current = current.prev;
+            itr++;
         } else {
             System.out.println("No state found!");
         }
@@ -58,6 +65,7 @@ public class UndoRedoTextEditor {
     public void redo() {
         if (current.next != null) {
             current = current.next;
+            itr--;
         } else {
             System.out.println("No record found!");
         }
