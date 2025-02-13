@@ -89,7 +89,7 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 4. Sequence Diagrams
 5. Association
 6. Aggregation
-7. Composition
+7. Composition<br><br><br>
 
 ## 07-02-2025 : Assignment-11 -> Branch : feature11
 1. Inheritance
@@ -100,20 +100,20 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 6. Method Overriding
 7. Constructor Inheritance in Java
 8. Polymorphism and Inheritance
-9. Access Modifiers and Inheritance
+9. Access Modifiers and Inheritance<br><br><br>
 
 ## 10-02-2025 : Assignment-12 -> Branch : feature12
 1. Encapsulation
 2. Polymorphism 
 3. Interface
-4. Abstract Classes
+4. Abstract Classes<br><br><br>
 
 ## 12-02-2025 : Assignment-13 -> Branch : feature13
 1. Single LinkedList
 2. Double LinkedList
-3. Circular LinkedList
+3. Circular LinkedList<br><br><br>
 
 ## 13-02-2025 : Assignment-14 -> Branch : feature14
 1. Stack
 2. Queue
-3. HashMap and Hash Function
+3. HashMap and Hash Function<br><br><br>
