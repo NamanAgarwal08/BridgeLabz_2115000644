@@ -112,3 +112,8 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 1. Single LinkedList
 2. Double LinkedList
 3. Circular LinkedList
+
+## 13-02-2025 : Assignment-14 -> Branch : feature14
+1. Stack
+2. Queue
+3. HashMap and Hash Function
