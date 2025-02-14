@@ -117,3 +117,12 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 1. Stack
 2. Queue
 3. HashMap and Hash Function<br><br><br>
+
+## 14-02-2025 : Assignment-15 -> Branch : feature15
+1. Bubble Sort
+2. Selection Sort
+3. Quick Sort
+4. Insertion Sort
+5. Merge Sort
+6. Heap Sort
+7. Counting Sort<br><br><br>
