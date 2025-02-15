@@ -1,0 +1,4 @@
+Hello!
+This is Naman Agarwal
+This file contains a dummy text for checking bufferredreader and filereader code in ReadFile.java file.
+Bye Bye!

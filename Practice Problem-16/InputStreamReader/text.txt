@@ -1,0 +1,4 @@
+Hello!
+Dummy text file for ReadFile.java to read this file.
+This is line 3
+Bye!

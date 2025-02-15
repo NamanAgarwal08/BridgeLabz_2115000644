@@ -1,0 +1,6 @@
+Hello!
+Naman again!
+Now, this file is created to run code in CountWords.java file.
+here are some randomm words: hello hii bye bye, Naman Agarwal is best, My mentor is Ashutosh Sir, Ashutosh Sir is good mentor.
+
+Bye Bye!
