@@ -126,3 +126,11 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 5. Merge Sort
 6. Heap Sort
 7. Counting Sort<br><br><br>
+
+## 15-02-2025 : Assignment-16 -> Branch : feature16
+1. StringBuilder
+2. StringBuffer
+3. FileReader
+4. InputStreamReader
+5. Linear Search 
+6. Binary Search<br><br><br>
