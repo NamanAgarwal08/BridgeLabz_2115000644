@@ -139,3 +139,12 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 1. General Algorithm Best Practices
 2. Time and Space Complexity Optimization<br><br><br>
 
+## 18-02-2025 : Assignment-18 -> Branch : feature18
+1. Introduction to Generics
+2. Type Parameters
+3. Generic Classes
+4. Generic Methods
+5. Bounded Type Parameters
+6. Wildcards<br><br><br>
+
+
