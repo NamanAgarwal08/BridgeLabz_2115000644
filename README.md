@@ -147,4 +147,11 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 5. Bounded Type Parameters
 6. Wildcards<br><br><br>
 
-
+## 20-02-2025 : Assignment-19 -> Branch : feature19
+1. Overview of Collections Framework
+2. List Interface and Implementing Classes
+3. Set Interface and Implementing Classes
+4. Queue and Deque Interfaces
+5. Map Interface and Its Implementations
+6. Comparison of Different Implementations
+7. Real-World Use Cases and Best Practices.<br><br><br>
