@@ -167,4 +167,18 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 3. Key Considerations
 4. Best Practices<br><br><br>
 
-
+## 21-02-2025 : Assignment-21 -> Branch : feature21
+1. Exceptions 
+2. Types of Exceptions
+	1. Checked Exceptions,
+	2. Unchecked Exceptions
+	3. Custom Exceptions
+3. Handling Exceptions 
+	1. try-catch blocks
+	2. try-catch-finally blocks
+	3. try-with-resources statement
+	4. throws clause
+	5. throw statement
+4. Creating Custom Exceptions
+5. Extending Exception Class
+6. Defining Constructors<br><br><br>
