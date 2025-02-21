@@ -155,3 +155,16 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 5. Map Interface and Its Implementations
 6. Comparison of Different Implementations
 7. Real-World Use Cases and Best Practices.<br><br><br>
+
+## 21-02-2025 : Assignment-20 -> Branch : feature20
+1. Java I/O Streams
+2. Types of Streams
+	1. File Streams
+	2. Object Streams
+	3. ByteArray Streams
+	4. Buffered Streams
+	5. Reader and Writer
+3. Key Considerations
+4. Best Practices<br><br><br>
+
+
