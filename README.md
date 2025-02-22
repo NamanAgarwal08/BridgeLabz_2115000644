@@ -182,3 +182,24 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 4. Creating Custom Exceptions
 5. Extending Exception Class
 6. Defining Constructors<br><br><br>
+
+## 22-02-2025 : Assignment-22 -> Branch : feature22
+1. Regex 
+2. MetaCharacter
+3. Quantifier
+4. Common Patterns:
+	1. Email Validation
+	2. Password Strength
+	3. Phone Number Format 
+5. Java Regex API 
+	1. Pattern
+	2. Matcher
+6. Methods:
+	1. find()
+	2. matches()
+	3. replaceAll()
+7. Introduction to JUnit Framework
+8. JUnit Annotations
+9. Writing Test Cases
+10.Structure of a Test Class
+11.Assertions
