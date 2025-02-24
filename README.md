@@ -203,3 +203,15 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 9. Writing Test Cases
 10. Structure of a Test Class
 11. Assertions<br><br><br>
+
+## 24-02-2025 : Assignment-23 -> Branch : feature23
+1. Introduction to Annotations
+2. Common Built-in Annotations
+3. Creating Custom Annotations
+4. Advanced Custom Annotations
+5. Real-World Use Cases
+6. Annotation Processing Tools
+7. Reflection
+8. Understanding of Reflection
+9. Using Reflection in Java
+10. Annotations and Reflection<br><br><br>
