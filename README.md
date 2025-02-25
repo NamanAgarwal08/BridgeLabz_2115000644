@@ -215,3 +215,10 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 8. Understanding of Reflection
 9. Using Reflection in Java
 10. Annotations and Reflection<br><br><br>
+
+## 25-02-2025 : Assignment-24 -> Branch : feature24
+1. Introduction to CSV
+2. Reading CSV Files
+3. Writing CSV Files
+4. Parsing CSV Data
+5. Data Validation<br><br><br>
