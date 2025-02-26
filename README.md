@@ -222,3 +222,12 @@ Questions containing class names : BankAccount, Book, Employee, Patient, Product
 3. Writing CSV Files
 4. Parsing CSV Data
 5. Data Validation<br><br><br>
+
+## 26-02-2025 : Assignment-25 -> Branch : feature25
+1. Introduction to JSON
+2. Reading JSON Data
+3. Writing JSON Data
+4. Parsing JSON Data
+5. JSON Schema Validation<br><br><br>
+
+
